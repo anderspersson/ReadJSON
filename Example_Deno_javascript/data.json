@@ -1,0 +1,31 @@
+{
+  "id": "23423423423423423",
+  "name": "Test",
+  "publisher": "Anders",
+  "dependencies": [
+    {
+      "id": "121212",
+      "publisher": "Kalle",
+      "name": "Kalle_run",
+      "version": "29.12.12.12"
+    },
+    {
+      "id": "3434343",
+      "publisher": "Saga",
+      "name": "Saga_run",
+      "version": "30.12.14.99"
+    },
+    {
+      "id": "98989898",
+      "publisher": "Linda",
+      "name": "Linda_run",
+      "version": "12.24.01.14"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ]
+}

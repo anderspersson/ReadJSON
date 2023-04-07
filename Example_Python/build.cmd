@@ -1,0 +1,1 @@
+nuitka --standalone --onefile -o ReadJsonFiles.exe .\ReadJsonFiles.py
